@@ -1,5 +1,5 @@
 
-# 《Spring5核心原理与30个类手写实战》
+# 《Java面试八股文》
 ### 京东购买链接：https://item.jd.com/10077629865295.html
 ### 当当购买链接：http://product.dangdang.com/29584391.html
 
@@ -14,3 +14,7 @@
 谭勇德（Tom）、谭锋（Tom）
 
 2023年3月20日于长沙
+
+推荐[《Spring5核心原理与30个类手写实战》](https://gitee.com/gupaoedu-tom/spring5-samples)目前销量已突破20000册！
+推荐[《Netty 4核心原理与手写RPC框架实战》](https://gitee.com/gupaoedu-tom/netty4-samples)目前销量已突破15000册！
+推荐[《设计模式就该这样学》](https://gitee.com/gupaoedu-tom/design-samples)目前销量已突破10000册！
